@@ -37,11 +37,10 @@ I can help startups and small businesses build **modern, responsive websites and
 ### 🌐 Connect With Me
 
 <p>
-  ### 🌐 Connect With Me
+ 
 
-📧 [Email Me](mailto:shrivaishnavi1234@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-🐙 [GitHub](https://github.com/shrivaishnavi22)
+📧 shrivaishnavi1234@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/shrivaishnavi-a-59a1a1372?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
   <a href="https://github.com/shrivaishnavi22">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
