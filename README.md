@@ -32,16 +32,17 @@ I can help startups and small businesses build **modern, responsive websites and
 
 **React.js • JavaScript • Node.js • Express.js • MongoDB**
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrivaishnavi22&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrivaishnavi22&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 🌐 Connect With Me
 
 <p>
+  ### 🌐 Connect With Me
+
+📧 [Email Me](mailto:shrivaishnavi1234@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+🐙 [GitHub](https://github.com/shrivaishnavi22)
+
   <a href="https://github.com/shrivaishnavi22">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
