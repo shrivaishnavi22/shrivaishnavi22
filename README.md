@@ -7,7 +7,7 @@ I love building **AI-powered and real-world applications** and continuously lear
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,mongodb,git,github,vscode" />
 </p>
 
 ### 🤖 Currently Learning
